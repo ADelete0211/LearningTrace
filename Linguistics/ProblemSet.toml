@@ -1,0 +1,12 @@
+
+[ProblemSet_0]
+
+due = 'session3'
+submit.language = 'mongolian'
+submit.from = 'mongolia'
+submit.natively = 'Монгол хэл, as mongol hel'
+submit.classification = 'Altai'
+
+ATofrequently = [
+    'mandarian'
+]
