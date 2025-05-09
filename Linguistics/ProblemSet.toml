@@ -8,5 +8,5 @@ submit.natively = 'Монгол хэл, as mongol hel'
 submit.classification = 'Altai'
 
 ATofrequently = [
-    'mandarian,,'
+    'mandarian'
 ]
