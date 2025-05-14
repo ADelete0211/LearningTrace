@@ -1,0 +1,56 @@
+
+这看起来实在有点丑陋但是我暂时还不会好用的表格格式所以咱凑合看吧。
+别问什么html什么的，真的全部暂时不会。
+
+-----noun-----
+
+Atigi:parka
+
+Agnaq:woman
+
+iglu:house
+iglut:houses
+
+
+kamik:boot
+kami:boots
+
+qayaq:kayak
+
+qaugat:ducks --> 'qauga = duck?'
+
+qimmiq:dog
+qimmit:dogs
+
+
+-----maybe subject-----
+
+-tutin:you
+-rutin:you --> k
+
+-ruNa:I
+
+-----unclassified-----
+
+-tuq:is(v.be) --> a d e g j n 
+-ruq:is(v.be) --> b m o r s
+-rut:is(v.be) --> f p u
+
+
+-----*verb-----
+
+-qaq-:have
+
+iglaq:laugh
+
+aquppi:sit --> r
+
+tiNmi:fly --> u
+
+-----adj-----
+
+miki-(ruq): small
+
+nakuu-(ruq): all right
+
+aNi-(rut): big

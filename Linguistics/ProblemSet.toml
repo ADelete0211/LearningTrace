@@ -10,3 +10,7 @@ submit.classification = 'Altai'
 ATofrequently = [
     'mandarian'
 ]
+
+[ProblemSet_1]
+due = 'session6'
+submit.table = ''

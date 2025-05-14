@@ -1,0 +1,83 @@
+a. Kamiqaqtuq 
+boots-have-is(something shows position)     
+‘He/she(somebody) has boots’ 
+
+b. Qayaq kiñŋuruq
+kayak capsize-is      
+‘The kayak is capsizing’ 
+
+c. Itiqtutin
+awake-you      
+‘You are awake’ 
+
+d. Sialuktuq
+v.rain-is
+‘It’s raining’ 
+
+e. Atigiqaqtuq      
+parka-have-is
+‘He/she has a parka’ 
+
+f. Qimmit niġirut
+dogs eat-is      
+‘The dogs are eating’ 
+
+g. Iglu qatiqtuq
+house white-is      
+‘The house is white’ 
+
+h. Tiŋmiruŋa 
+fly-I     
+‘I am flying’ 
+
+i. Kamikluqaqtutin
+pants-have-you      
+‘You have pants’ 
+
+j. Kamik maŋaqtuq
+boot black-is      
+‘The boot is black’ 
+
+k. Niġirutin
+eat-you      
+‘You are eating’ 
+
+l. Qayaqaqtuŋa
+kayak-have-I      
+‘I have a kayak’ 
+
+m. Atigi mikiruq
+parka small-is      
+‘The parka is small’
+
+n. Aġnaq iglaqtuq
+woman laugh-is      
+‘The woman is laughing’ 
+
+o. Qimmiq nakuuruq
+dog allright-is      
+‘The dog is all right’ 
+
+p. Iglut aŋirut
+houses big-is      
+‘The houses are big’ 
+
+q. Qimmiqaqtuŋa
+dog-have-I      
+‘I have a dog’ 
+
+r. Aġnaq aquppiruq
+woman sit-is      
+‘The woman is sitting’ 
+
+s. Qayaq aŋiruq
+kayak big-is      
+‘The kayak is big’ 
+
+t. Igluqaqtutin 
+house have you     
+‘You have a house’ 
+
+u. Qaugat tiŋmirut  
+ducks fly-is    
+‘The ducks are flying’ 
