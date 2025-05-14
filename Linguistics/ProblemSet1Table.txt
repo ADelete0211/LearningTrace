@@ -8,7 +8,7 @@ Atigi:parka
 
 Agnaq:woman
 
-iglu:house
+iglu:house ee
 iglut:houses
 
 

@@ -22,7 +22,7 @@ f. Qimmit niġirut
 dogs eat-is      
 ‘The dogs are eating’ 
 
-g. Iglu qatiqtuq
+g. Iglu qatiqtuq qq
 house white-is      
 ‘The house is white’ 
 
